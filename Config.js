@@ -12,15 +12,15 @@ global.location = "Indian"
 global.botname = process.env.BOTNAME || "𝐌𝐀𝐑𝐈𝐀-𝐌𝐃",//name of the bot
 
 //sticker details
-global.stickername = process.env.STICKER || "💙𓆩‎‎𝐀𝐃𝐑𝐈𝐄𝐍𓆪_✰",
-global.packname = 'Sticker By'
-global.author = process.env.AUTHOR || "💙𓆩‎𝐀𝐃𝐑𝐈𝐄𝐍‎𓆪_✰",
+global.stickername = process.env.STICKER || "𝆺𝅥 𝇁 ֹ 𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣",
+global.packname = ''
+global.author = process.env.AUTHOR || "𝆺𝅥 𝇁 ֹ 𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣",
 //console view/theme
 global.themeemoji = '💌'
 global.wm = ""
 
 //theme link
-global.link = ''
+global.link = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u'
 
 //custom prefix
 global.prefa = process.env.PREFIX || ".",
@@ -51,8 +51,8 @@ global.mess = {
 }
 
 module.exports = {
-ownernumber: global.ownernumber,
-ownername: global.ownername,
+ownernumber: "917439317360",
+ownername: "𝚫𝐃𝐑𝐈𝚵𝚴",
 sessionId: process.env.id,
 AUTO_BLOCK : process.env.PM_BLOCKER,
 STATUS_SAVER : "true",
